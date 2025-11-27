@@ -26,7 +26,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
- linkedin_username: muhan-hou-58aaaa33b # your LinkedIn user name
+inkedin_username: muhan-hou-58aaaa33b # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
