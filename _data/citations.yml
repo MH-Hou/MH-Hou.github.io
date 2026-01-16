@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-16'
 papers:
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Imitation-Based Robot Learning for Human-Robot Social Greeting: A Process Study'
     year: '2023'
   iFKR-JAAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: A process-oriented framework for robot imitation learning in human-centered interactive tasks
     year: '2023'
   iFKR-JAAAAAJ:Tyk-4Ss8FVUC:
