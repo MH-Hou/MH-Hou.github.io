@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-01-30'
 papers:
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -25,6 +25,10 @@ papers:
     citations: 0
     title: Can You See How I learn? Human Observers' Inferences about Reinforcement Learning Agents' Learning Processes
     year: '2025'
+  iFKR-JAAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: 'Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks'
+    year: '2026'
   iFKR-JAAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: A Multi-Behavior Planning Framework for Robot Guide
@@ -39,7 +43,7 @@ papers:
     year: '2024'
   iFKR-JAAAAAJ:ufrVoPGSRksC:
     citations: 0
-    title: '" guide Me Through the Unexpected": Investigating How Deviation from Expectation Affects Human Teaching and Robot Learning'
+    title: '" Guide Me Through the Unexpected": Investigating How Deviation from Expectation Affects Human Teaching and Robot Learning'
     year: '2025'
   iFKR-JAAAAAJ:zYLM7Y9cAGgC:
     citations: 0
