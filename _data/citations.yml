@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-17'
 papers:
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Active Robot Curriculum Learning from Online Human Demonstrations
     year: '2025'
   iFKR-JAAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: Can You See How I learn? Human Observers' Inferences about Reinforcement Learning Agents' Learning Processes
     year: '2025'
   iFKR-JAAAAAJ:_FxGoFyzp5QC:
