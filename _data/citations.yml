@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-13'
 papers:
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 5
     title: A process-oriented framework for robot imitation learning in human-centered interactive tasks
     year: '2023'
+  iFKR-JAAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: VU Research Portal
+    year: Unknown Year
   iFKR-JAAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Usability Study of VR Interfaces for Learning from Demonstrations in Bimanual Tasks
@@ -41,10 +45,6 @@ papers:
     citations: 10
     title: '"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations'
     year: '2024'
-  iFKR-JAAAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: VU Research Portal
-    year: Unknown Year
   iFKR-JAAAAAJ:ufrVoPGSRksC:
     citations: 0
     title: '" Guide Me Through the Unexpected": Investigating How Deviation from Expectation Affects Human Teaching and Robot Learning'
