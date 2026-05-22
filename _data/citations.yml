@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-22'
 papers:
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,10 +9,6 @@ papers:
     citations: 5
     title: A process-oriented framework for robot imitation learning in human-centered interactive tasks
     year: '2023'
-  iFKR-JAAAAAJ:Se3iqnhoufwC:
-    citations: 0
-    title: VU Research Portal
-    year: Unknown Year
   iFKR-JAAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Usability Study of VR Interfaces for Learning from Demonstrations in Bimanual Tasks
@@ -21,8 +17,12 @@ papers:
     citations: 12
     title: 'Shaping imbalance into balance: Active robot guidance of human teachers for better learning from demonstrations'
     year: '2023'
+  iFKR-JAAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: VU Research Portal
+    year: Unknown Year
   iFKR-JAAAAAJ:W7OEmFMy1HYC:
-    citations: 5
+    citations: 6
     title: Active Robot Curriculum Learning from Online Human Demonstrations
     year: '2025'
   iFKR-JAAAAAJ:WF5omc3nYNoC:
@@ -30,7 +30,7 @@ papers:
     title: Can You See How I learn? Human Observers' Inferences about Reinforcement Learning Agents' Learning Processes
     year: '2025'
   iFKR-JAAAAAJ:_FxGoFyzp5QC:
-    citations: 1
+    citations: 2
     title: 'Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks'
     year: '2026'
   iFKR-JAAAAAJ:d1gkVwhDpl0C:
@@ -38,7 +38,7 @@ papers:
     title: A Multi-Behavior Planning Framework for Robot Guide
     year: '2022'
   iFKR-JAAAAAJ:eQOLeE2rZwMC:
-    citations: 2
+    citations: 3
     title: 'Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach'
     year: '2025'
   iFKR-JAAAAAJ:qjMakFHDy7sC:
