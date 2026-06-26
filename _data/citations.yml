@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-26'
 papers:
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Imitation-Based Robot Learning for Human-Robot Social Greeting: A Process Study'
     year: '2023'
   iFKR-JAAAAAJ:9yKSN-GCB0IC:
-    citations: 4
+    citations: 5
     title: A process-oriented framework for robot imitation learning in human-centered interactive tasks
     year: '2023'
   iFKR-JAAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: Usability Study of VR Interfaces for Learning from Demonstrations in Bimanual Tasks
     year: '2025'
   iFKR-JAAAAAJ:UeHWp8X0CEIC:
-    citations: 12
+    citations: 13
     title: 'Shaping imbalance into balance: Active robot guidance of human teachers for better learning from demonstrations'
     year: '2023'
   iFKR-JAAAAAJ:W7OEmFMy1HYC:
@@ -37,8 +37,12 @@ papers:
     citations: 3
     title: 'Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach'
     year: '2025'
+  iFKR-JAAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: VU Research Portal
+    year: Unknown Year
   iFKR-JAAAAAJ:qjMakFHDy7sC:
-    citations: 9
+    citations: 10
     title: '"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations'
     year: '2024'
   iFKR-JAAAAAJ:ufrVoPGSRksC:
