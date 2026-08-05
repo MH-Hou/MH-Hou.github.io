@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-05'
 papers:
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -34,15 +34,11 @@ papers:
     title: A Multi-Behavior Planning Framework for Robot Guide
     year: '2022'
   iFKR-JAAAAAJ:eQOLeE2rZwMC:
-    citations: 3
+    citations: 4
     title: 'Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach'
     year: '2025'
-  iFKR-JAAAAAJ:hqOjcs7Dif8C:
-    citations: 0
-    title: VU Research Portal
-    year: Unknown Year
   iFKR-JAAAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: '"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations'
     year: '2024'
   iFKR-JAAAAAJ:ufrVoPGSRksC:
