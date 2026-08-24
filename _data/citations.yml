@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-24'
 papers:
+  iFKR-JAAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: VU Research Portal
+    year: Unknown Year
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Imitation-Based Robot Learning for Human-Robot Social Greeting: A Process Study'
@@ -38,7 +42,7 @@ papers:
     title: 'Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach'
     year: '2025'
   iFKR-JAAAAAJ:qjMakFHDy7sC:
-    citations: 11
+    citations: 12
     title: '"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations'
     year: '2024'
   iFKR-JAAAAAJ:ufrVoPGSRksC:
