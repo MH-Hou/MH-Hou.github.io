@@ -1,24 +1,40 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-04'
 papers:
   iFKR-JAAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: VU Research Portal
-    year: Unknown Year
+    year: '2021'
   iFKR-JAAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Imitation-Based Robot Learning for Human-Robot Social Greeting: A Process Study'
     year: '2023'
+  iFKR-JAAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: VU Research Portal
+    year: Unknown Year
+  iFKR-JAAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: "Can You See How I Learn? Human Observers\u2019 Inferences about Robot Learning Processes"
+    year: Unknown Year
+  iFKR-JAAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Active Robot Learning from Demonstrations with Human Teachers
+    year: '2026'
   iFKR-JAAAAAJ:9yKSN-GCB0IC:
-    citations: 5
+    citations: 6
     title: A process-oriented framework for robot imitation learning in human-centered interactive tasks
     year: '2023'
+  iFKR-JAAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: VU Research Portal
+    year: Unknown Year
   iFKR-JAAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Usability Study of VR Interfaces for Learning from Demonstrations in Bimanual Tasks
     year: '2025'
   iFKR-JAAAAAJ:UeHWp8X0CEIC:
-    citations: 13
+    citations: 15
     title: 'Shaping imbalance into balance: Active robot guidance of human teachers for better learning from demonstrations'
     year: '2023'
   iFKR-JAAAAAJ:W7OEmFMy1HYC:
@@ -26,7 +42,7 @@ papers:
     title: Active Robot Curriculum Learning from Online Human Demonstrations
     year: '2025'
   iFKR-JAAAAAJ:WF5omc3nYNoC:
-    citations: 1
+    citations: 4
     title: Can You See How I learn? Human Observers' Inferences about Reinforcement Learning Agents' Learning Processes
     year: '2025'
   iFKR-JAAAAAJ:_FxGoFyzp5QC:
@@ -42,7 +58,7 @@ papers:
     title: 'Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach'
     year: '2025'
   iFKR-JAAAAAJ:qjMakFHDy7sC:
-    citations: 12
+    citations: 15
     title: '"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations'
     year: '2024'
   iFKR-JAAAAAJ:ufrVoPGSRksC:
